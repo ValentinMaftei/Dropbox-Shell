@@ -12,6 +12,11 @@ Am îmbunătățit funcționalitatea dbxcli prin adăugarea posibilității de a
 
 Carcasa are un design simplu și comenzile sunt evidențiate printr-o paletă de culori similară cu cea a terminalului Linux. În ansamblu, proiectul nostru face lucrul cu funcționalitatea Dropbox prin linia de comandă mai eficient și mai prietenos pentru utilizator.
 
+Pentru a rula se folosește:
+```
+##### gcc dropboxShell.c -o dropboxShell
+##### ./dropboxShell
+```
 
 # Dropbox Shell E
 
@@ -23,4 +28,7 @@ We have enhanced the functionality of the dbxcli by adding the ability to upload
 
 The shell has a simple design and the commands are highlighted by a similar color palette to the Linux terminal. Overall, our project makes working with Dropbox's functionality through the command line more efficient and user-friendly.
 
-
+```
+##### gcc dropboxShell.c -o dropboxShell
+##### ./dropboxShell
+```
