@@ -1,8 +1,8 @@
-[Română :romania:](#dropbox-shell-r)
+[Română :romania:](#dropbox-shell-ro)
 
-[English :eu:](#dropbox-shell-e)
+[English :eu:](#dropbox-shell-eu)
 
-# Dropbox Shell R
+# Dropbox Shell RO
 
 ##### Proiectat in C, utilizând concepte de sisteme de operare (procese, thread-uri, etc).
 
@@ -12,13 +12,13 @@ Am îmbunătățit funcționalitatea dbxcli prin adăugarea posibilității de a
 
 Carcasa are un design simplu și comenzile sunt evidențiate printr-o paletă de culori similară cu cea a terminalului Linux. În ansamblu, proiectul nostru face lucrul cu funcționalitatea Dropbox prin linia de comandă mai eficient și mai prietenos pentru utilizator.
 
-Pentru a rula se folosește:
+Pentru a rula programul se folosește:
 ```
-##### gcc dropboxShell.c -o dropboxShell
-##### ./dropboxShell
+gcc dropboxShell.c -o dropboxShell
+./dropboxShell
 ```
 
-# Dropbox Shell E
+# Dropbox Shell EU
 
 ##### Designed in C, using operating systems concepts (processes, threads, etc).
 
@@ -28,7 +28,8 @@ We have enhanced the functionality of the dbxcli by adding the ability to upload
 
 The shell has a simple design and the commands are highlighted by a similar color palette to the Linux terminal. Overall, our project makes working with Dropbox's functionality through the command line more efficient and user-friendly.
 
+To run the program use:
 ```
-##### gcc dropboxShell.c -o dropboxShell
-##### ./dropboxShell
+gcc dropboxShell.c -o dropboxShell
+./dropboxShell
 ```
